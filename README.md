@@ -1,6 +1,6 @@
 # Chromatography_Analysis
 
-This program has been produced to create a pipeline in which input data, from the program Unicorn 7 (Cytivia), can be automatically analysed to a visually appealing figure. This pipeline will also be used to calculate the protein concentration in collected fractions to aid in analysis of purification success. Currently this data only works with specific files where fractions are labelled A1-A13 and with a 5 mL sample loop.
+This python/Jupyter Notebook program has been produced to create a pipeline in which input data, from the program Unicorn 7 (Cytivia), can be automatically analysed to a visually appealing figure. This pipeline will also be used to calculate the protein concentration in collected fractions to aid in analysis of purification success. Currently this data only works with specific files where fractions are labelled A1-A13 and with a 5 mL sample loop.
 
 To run:
 
